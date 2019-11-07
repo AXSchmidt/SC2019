@@ -68,6 +68,7 @@ public class AlphaBot implements IGameHandler {
 	 */
 	@Override
 	public void onRequestAction() {
+        
 		final long timeStart = System.currentTimeMillis();
 
 		outPut.clear();

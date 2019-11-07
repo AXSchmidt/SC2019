@@ -5,7 +5,6 @@ import sc.plugin2019.util.GameRuleLogic;
 import sc.shared.PlayerColor;
 
 public class BoardRater {
-
 	private int redFishesAtBorder = 0;
 	private int blueFishesAtBorder = 0;
 	private int redSwarmSize;
